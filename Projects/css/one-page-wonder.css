@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('Images/hackertyper.png') no-repeat center center scroll;
+    background: url('https://raw.githubusercontent.com/pakhandi/pakhandi.github.io/6b9a03da1063a2247d799c0612810d416951ad09/Projects/Images/hackertyper.png') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
